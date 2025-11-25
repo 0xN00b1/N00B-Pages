@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: N00b navigates the cyber world
 ---
 
